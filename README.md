@@ -18,7 +18,8 @@ JQuery| front-end
 
 ![image](https://user-images.githubusercontent.com/94874696/201494887-a81b3ad9-3503-4500-a8ee-e3f94d3aef31.png)
 
-
+##
+##
 ## New jobs 
 ![image](https://user-images.githubusercontent.com/94874696/201496225-2670833e-eb95-4996-9962-7d32257c79f2.png)
 
