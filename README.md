@@ -20,6 +20,8 @@ JQuery| front-end
 
 ##
 ##
-## New jobs 
+## The programming is one of the skill for the future
 ![image](https://user-images.githubusercontent.com/94874696/201496225-2670833e-eb95-4996-9962-7d32257c79f2.png)
 
+
+![image](https://user-images.githubusercontent.com/94874696/201496366-0ecc1def-d4dc-4d1e-adc7-e11bd796e402.png)
