@@ -9,9 +9,13 @@
 
 ![image](https://user-images.githubusercontent.com/94874696/201494887-a81b3ad9-3503-4500-a8ee-e3f94d3aef31.png)
 
-Exemplo   | Valor do exemplo
+<p> Some programming language
+  
+Language   | Back or Front
 --------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+Python | back-end
+Java | back-end
+JavaScript | back-end, front-end
+Go | back-end
+C# | back-end
+JQuery| front-end
