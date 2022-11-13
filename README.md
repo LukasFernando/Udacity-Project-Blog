@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/94874696/201550166-f9a694bc-5acf-4b09-ba72-94a39c41e548.png)
 
-##### The CRISP-DM has 6 step to solve the problem and get more value to your data according with you project goals. 
+#### The CRISP-DM has 6 step to solve the problem and get more value to your data according with you project goals. 
 <ol>
   <li> Business Understanding
   <li>Data Understanding
