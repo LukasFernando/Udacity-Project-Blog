@@ -5,7 +5,7 @@
 
 <P> Computer Programming is one of future's job. Every year the technology is increasing and getting more intelligence. But who did you think that will fix or build this machine? Yes, us. Today is easy to learn because it has a lot platform to teach, so go to one of then and try to write a code in some programming language. If you liked it, why not learn more and work with it? Otherwise, at least you tried. 
 
-### Exist a lot of programming language for back-end and front-end. You just need to find what it's better for you. Here are some programming language:
+## Exist a lot of programming language for back-end and front-end. You just need to find what it's better for you. Here are some programming language:
   
 Language   | Back or Front
 --------- | ------
