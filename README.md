@@ -26,3 +26,6 @@ JQuery| front-end
 <p> If you like math and logic you probably will like the computer programming, but to ensure that you'll really like it search some video about one of language that was mentioned above... and don't forget, the future will need the people that know programme.
 
 ![image](https://user-images.githubusercontent.com/94874696/201496366-0ecc1def-d4dc-4d1e-adc7-e11bd796e402.png)
+
+### Useful links 
+<p> If you get interest in IT are, check the [CRISP-DM](https://analyticsindiamag.com/crisp-dm-data-science-project/).
