@@ -35,4 +35,6 @@
 ### Deploy
 <p> This step is about the planning. Summarizing all the process and planning how it'll be deployed in the future. Also, planning the monitoring and maintenance.
 
+### Conclusion
+<p> 
 
