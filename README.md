@@ -1,40 +1,28 @@
+# Did you know that computer programming is one of the future job? 
 
-# The 6 step of the CRISP-DM 
+![image](https://user-images.githubusercontent.com/94874696/201494620-38c89eac-941d-4b42-99bf-b72752900689.png)
 
-![image](https://user-images.githubusercontent.com/94874696/201550166-f9a694bc-5acf-4b09-ba72-94a39c41e548.png)
 
-#### The CRISP-DM has 6 step to solve the problem and get more value to your data according with you project goals. 
-<ol>
-  <li> Business Understanding
-  <li>Data Understanding
-  <li>Prepare Data
-  <li>Data Modeling
-  <li>Evaluate the Results
-  <li>Deploy
+<P> Computer Programming is one of future's job. Every year the technology is increasing and getting more intelligence. But who did you think that will fix or build this machine? Yes, us. Today is easy to learn because it has a lot platform to teach, so go to one of then and try to write a code in some programming language. If you liked it, why not learn more and work with it? Otherwise, at least you tried. 
 
-![image](https://user-images.githubusercontent.com/94874696/201548343-a1fb3af7-52a8-46d7-b694-fbc90135a7de.png)
-    
-
-## Now we gonna talk aboult each CRISP-DM step
- 
-### Business Understanding
-<p> This step is the process to understand the problem. This way you can plan what you gonna do with the data and you know why that you doing this. It's important to know why and what you do with the data, it isn't just to solve the problem, you must know the value of this problem. 
+### Exist a lot of programming language for back-end and front-end. You just need to find what it's better for you. Here are some programming language:
   
-### Data Understanding
-<p> This step is about understand and identify the relevant data to the project goals. 
+Language   | Back or Front
+--------- | ------
+Python | back-end
+Java | back-end
+JavaScript | back-end, front-end
+Go | back-end
+C# | back-end
+JQuery| front-end
 
-### Prepare Data
-<p> Here all the data that'll be used is determined. Also, the process how the data will be clean.
+![image](https://user-images.githubusercontent.com/94874696/201494887-a81b3ad9-3503-4500-a8ee-e3f94d3aef31.png)
 
-### Data Modeling
-<p> This is the coolest step. Here you'll clear the data. Everything you identified that is not relevant to the project is drop at this step. You will let the data clean to use. 
+##
+##
+## The programming is one of the skill for the future
+![image](https://user-images.githubusercontent.com/94874696/201496225-2670833e-eb95-4996-9962-7d32257c79f2.png)
 
-### Evaluate the Results
-<p> This step is about evaluating the result, models and process. This step will also check if the process makes sense and it is scalable.
+<p> If you like math and logic you probably will like the computer programming, but to ensure that you'll really like it search some video about one of language that was mentioned above... and don't forget, the future will need the people that know programme.
 
-### Deploy
-<p> This step is about the planning. Summarizing all the process and planning how it'll be deployed in the future. Also, planning the monitoring and maintenance.
-
-### Conclusion
-<p> 
-
+![image](https://user-images.githubusercontent.com/94874696/201496366-0ecc1def-d4dc-4d1e-adc7-e11bd796e402.png)
