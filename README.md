@@ -21,12 +21,11 @@ JQuery| front-end
 ##
 ##
 ## The programming is one of the skill for the future
-![image](https://user-images.githubusercontent.com/94874696/201496225-2670833e-eb95-4996-9962-7d32257c79f2.png)
-
 <p> If you like math and logic you probably will like the computer programming, but to ensure that you'll really like it search some video about one of language that was mentioned above... and don't forget, the future will need the people that know programme.
+
+![image](https://user-images.githubusercontent.com/94874696/201496225-2670833e-eb95-4996-9962-7d32257c79f2.png)
 
 ### Getting start on IT area  
 <p> If you get interest in IT are, check the <a href="https://analyticsindiamag.com/crisp-dm-data-science-project/">CRISP-DM <a>. This site talk about a process used in Data Science. Don't forget to find a programming language to start on computer programming, this is also one of future's jobs.
 
 ![image](https://user-images.githubusercontent.com/94874696/201496366-0ecc1def-d4dc-4d1e-adc7-e11bd796e402.png)
-  
