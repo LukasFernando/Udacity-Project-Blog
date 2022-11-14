@@ -28,4 +28,4 @@ JQuery| front-end
 ![image](https://user-images.githubusercontent.com/94874696/201496366-0ecc1def-d4dc-4d1e-adc7-e11bd796e402.png)
 
 ### Useful links 
-<p> If you get interest in IT are, check the [CRISP-DM](https://analyticsindiamag.com/crisp-dm-data-science-project/)
+<p> If you get interest in IT are, check the [CRISP DM](https://analyticsindiamag.com/crisp-dm-data-science-project/)
